@@ -98,7 +98,7 @@
             else {
                $username=$_POST['username'];
                $password=$_POST['password'];
-               if($username=="cs487"&&$password="softwareengineering"){
+               if($username=="krishna"&&$password="harsha"){
                    header('Location: PlacesToVisit.html');
                }
             }
